@@ -8,23 +8,23 @@
 - system arguments
 - sys, os lib
 - map, lambda, list comp, dict comp, generators
-- example: wordlist reader
+    - example: wordlist reader
 - subprocess
-- example: nmap handler
+    - example: nmap handler
 - xml lib
-- example: xml parse
+    - example: xml parse
 - argparse
 - struct
 - socket
-- example: socket server
-- example: socket client
+    - example: socket server
+    - example: socket client
 - threading
-- example: multi-thread telnet cracker
+    - example: multi-thread telnet cracker
 - flask
-- example: flask web service
+    - example: flask web service
 - requests
-- example: multi-thread api cracker
+    - example: multi-thread api cracker
 - cmd
-- example: interactive, multi-thread nmap handler
+    - example: interactive, multi-thread nmap handler
 - scapy
-- example: data leak with icmp
+    - example: data leak with icmp
