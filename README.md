@@ -1,0 +1,30 @@
+# Python for hackers workshop
+
+- environment
+    - ipython
+    - git
+    - pdb
+    - virtualenv
+- system arguments
+- sys, os lib
+- map, lambda, list comp, dict comp, generators
+- example: wordlist reader
+- subprocess
+- example: nmap handler
+- xml lib
+- example: xml parse
+- argparse
+- struct
+- socket
+- example: socket server
+- example: socket client
+- threading
+- example: multi-thread telnet cracker
+- flask
+- example: flask web service
+- requests
+- example: multi-thread api cracker
+- cmd
+- example: interactive, multi-thread nmap handler
+- scapy
+- example: data leak with icmp
